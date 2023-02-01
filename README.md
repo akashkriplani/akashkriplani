@@ -11,4 +11,12 @@ Also, you can also get in touch with me on the following platforms:
 <a href="https://www.linkedin.com/in/akashkriplani25/">![LinkedIn: Akash Kriplani](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/kriptweets">![Twitter: kriptweets](https://img.shields.io/twitter/follow/kriptweets?logo=twitter&style=plastic)</a>
 
+<h1 align="left"> Profile statistics </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkriplani&label=Profile%20views&color=0e75b6&style=flat" alt="akashkriplani" /> </p>
+
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashkriplani&count_private=true&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkriplani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkriplani)](https://github.com/anuraghazra/github-readme-stats)
