@@ -10,3 +10,5 @@ Also, you can also get in touch with me on the following platforms:
 <a href="https://github.com/akashkriplani" target="_blank"> ![Github: akashkriplani](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/akashkriplani25/">![LinkedIn: Akash Kriplani](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/kriptweets">![Twitter: kriptweets](https://img.shields.io/twitter/follow/kriptweets?logo=twitter&style=plastic)</a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkriplani&label=Profile%20views&color=0e75b6&style=flat" alt="akashkriplani" /> </p>
