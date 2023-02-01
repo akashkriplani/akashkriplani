@@ -17,6 +17,6 @@ Also, you can also get in touch with me on the following platforms:
 
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashkriplani&count_private=true&show_icons=true&include_all_commits=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkriplani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkriplani&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkriplani)](https://github.com/anuraghazra/github-readme-stats)
+[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkriplani&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
