@@ -13,7 +13,9 @@ Also, you can also get in touch with me on the following platforms:
 
 <h1 align="left"> Profile statistics </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkriplani&label=Profile%20views&color=0e75b6&style=flat" alt="akashkriplani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkriplani&label=Profile%20views&color=0e75b6&style=flat" alt="akashkriplani" />
+<img src="https://wakatime.com/badge/user/31cfd92a-b0ba-45d5-a6ae-ed27be6ca492.svg" alt="Wakatime Statistics for Akash Kriplani" />
+</p>
 
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashkriplani&count_private=true&show_icons=true&include_all_commits=true&theme=react)
 
