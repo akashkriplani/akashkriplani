@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Akash Kriplani, a senior front-end developer at Nagarro, Lucknow.
 - 👀 I’m interested in developing cool features in web applications using latest technology stacks.
-- 🌱 I’m currently learning React and Redux.
+- 🌱 I’m currently doing Masters in Machine Learning and Artificial Intelligence from Liverpool John Moores University, UK.
 - 💞️ I’m looking to collaborate on any/every kind of web app. I hold expertise in Angular 2+ framework. I love to explore new technologies.
-- 📫 How to reach me - Please reach me on aakash23kriplani@gmail.com
+- 📫 How to reach me - Please reach me on my LinkedIn profile - https://www.linkedin.com/in/akashkriplani25/
 
 Also, you can also get in touch with me on the following platforms:
 
