@@ -42,11 +42,11 @@ Also, you can also get in touch with me on the following platforms:
 </p>
 
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashkriplani&count_private=true&show_icons=true&include_all_commits=true&theme=react)
+[![Akash's GitHub stats](https://github-stats-extended.vercel.app/api?username=akashkriplani)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkriplani&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=akashkriplani&langs_count=5)
 
-[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkriplani&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Akash's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=akashkriplani&langs_count=6)](https://wakatime.com/@akashkriplani)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashkriplani&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashkriplani&theme=github_dark)
