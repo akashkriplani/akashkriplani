@@ -54,5 +54,5 @@ Also, you can also get in touch with me on the following platforms:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashkriplani&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashkriplani&theme=github_dark&utcOffset=8)
 
-[![Akash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akashkriplani&theme=github-compact)](https://github.com/akashkriplani/github-readme-activity-graph)
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkriplani&custom_title=Akash%27s%20Activity%20Graph%20&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
