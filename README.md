@@ -19,7 +19,7 @@ Also, you can also get in touch with me on the following platforms:
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="Tailwind CSS Logo" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+  <img src="https://jsdelivr.net" alt="JavaScript Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="NgRx Logo" width="50" height="50"/>
@@ -54,5 +54,5 @@ Also, you can also get in touch with me on the following platforms:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashkriplani&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashkriplani&theme=github_dark&utcOffset=8)
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkriplani&custom_title=Akash%27s%20Activity%20Graph%20&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashkriplani&custom_title=Akash%27s%20Github%20Activity%20Graph%20&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
