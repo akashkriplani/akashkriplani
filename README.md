@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akash Kriplani, a senior front-end developer at Nagarro, Lucknow.
+- 👋 Hi, I’m Akash Kriplani, a senior front-end architect at Nagarro, Lucknow.
 - 👀 I’m interested in developing cool features in web applications using latest technology stacks.
 - 🌱 I have completed my Masters degree in Machine Learning and Artificial Intelligence from Liverpool John Moores University, UK.
 - 💞️ I’m looking to collaborate on any/every kind of web app. I hold expertise in Angular 2+ framework. I love to explore new technologies.
